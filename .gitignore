@@ -1,0 +1,21 @@
+CREDITS-fml.txt
+LICENSE-new.txt
+MinecraftForge-Credits.txt
+Paulscode IBXM Library License.txt
+Paulscode SoundSystem CodecIBXM License.txt
+README.txt
+build.gradle
+forge-1.7.10-10.13.4.1566-1.7.10-changelog.txt
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+.classpath
+.metadata/
+.project
+.settings/
+Forge Amethystic_Client.launch
+Forge Amethystic_Server.launch
+bin/
+build/
+eclipse/

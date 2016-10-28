@@ -1,0 +1,28 @@
+tile.weatherDetector.name=Weather Detector
+tile.weather_manipulator.name=Weather Manipulator
+tile.sunstone.name=Sunstone
+tile.sunstone_ore.name=Sunstone Ore
+tile.rainstone.name=Rainstone
+tile.rainstone_ore.name=Rainstone Ore
+tile.thunderstone.name=Thunderstone
+tile.thunderstone_ore.name=Thunderstone Ore
+tile.cloudstone.name=Cloudstone
+tile.cloudstone_ore.name=Cloudstone Ore
+tile.earthstone.name=Earthstone
+tile.earthstone_ore.name=Earthstone Ore
+tile.moonstone.name=Moonstone
+tile.moonstone_ore.name=Moonstone Ore
+
+item.sunstone_shard.name=Sunstone Shard
+item.rainstone_shard.name=Rainstone Shard
+item.thunderstone_shard.name=Thunderstone Shard
+item.cloudstone_shard.name=Cloudstone Shard
+item.earthstone_shard.name=Earthstone Shard
+item.moonstone_shard.name=Moonstone Shard
+
+enchantment.naturesSong=Nature's Song
+enchantment.naturesFury=Nature's Fury
+enchantment.naturesSoul=Nature's Soul
+enchantment.naturesInertia=Nature's Inertia
+
+death.attack.electricity=%s was electrocuted.

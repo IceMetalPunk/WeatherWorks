@@ -1,0 +1,20 @@
+{
+  "weatherManipulation": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "weatherManipulation",
+				"stream": false
+			}
+		]
+	},
+	"weatherWind": {
+		"category": "weather",
+		"sounds": [
+			{
+				"name": "weatherWind",
+				"stream": false
+			}
+		]
+	}
+}

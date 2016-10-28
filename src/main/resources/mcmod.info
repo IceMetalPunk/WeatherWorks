@@ -1,0 +1,16 @@
+[
+{
+  "modid": "weatherworks",
+  "name": "WeatherWorks",
+  "description": "WeatherWorks puts the power of nature in your hands.",
+  "version": "1.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IceMetalPunk"],
+  "credits": "Lots of credit to those who helped me learn!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
